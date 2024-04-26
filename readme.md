@@ -28,7 +28,7 @@ Hang on, what do you mean GET and POST? Why are they in capitals? What are they?
 
 Essentially they are how the internet works - sending requests for information, or requests with information.
 
-Here's a short [video](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/HTTP-methods) that explains in more depth.
+You can read more about HTTP [here](https://github.com/bjssacademy/fundamentals-http) or watch a short [video](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/HTTP-methods) that explains in more depth.
 
 ## Step 1
 Install Thunder Client from the extensions on the left in VS Code. Thunder Client is a Rest API Client extension for VS Code that allows you to issue GET, POST, PUT, and other HTTP requests. We are going to use it to test our store.
